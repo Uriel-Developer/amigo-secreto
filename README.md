@@ -29,22 +29,31 @@ Para iniciar el juego, solo es necesario escribir los nombres de los amigos que 
 - Funciones
 
 ```agregarAmigo()```
+
 ```renderizarLista()```
+
 ```sortearAmigo()```
 
 - Dom
 
 ```document.getElementById("amigo")```
+
 ```document.getElementById("listaAmigos")```
+
 ```innerHTML = ""```
+
 ```document.createElement("li")```
+
 ```document.getElementById("resultado")```
+
 ```document.getElementById("listaAmigos")```
 
 - Condicionalwes
 
  ```if (!nombreIngresado)```
+ 
  ```if (listaDeAmigos.includes(nombreIngresado))```
+ 
  ```if (listaDeAmigos.length === 0)```
 
 - Arrays
