@@ -5,11 +5,17 @@ Para iniciar el juego, solo es necesario escribir los nombres de los amigos que 
 
 
 <h1>Reglas</h1>
+
 - No existe número limite para añadir a los participantes.
+
 - Debes de añadir por lo menos a DOS participantes para poder iniciar el juego.
+  
 - Una vez acabado de sortear todos los nombres, se acaba el juego.
+ 
 - Para volver a iniciar, el juego, debes de recargar la paguína.
+  
 - No se vale repetir los nombres de los jugadores.
+
 - ¡Tampoco se vale hacer trampa!
 
 
